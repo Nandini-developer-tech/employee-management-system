@@ -33,6 +33,62 @@ The Employee Management System is a web application developed using Flask and My
 * CSS
 
 ---
+## Project Screenshots
+
+### Home Page
+
+<img width="1912" height="887" alt="image" src="https://github.com/user-attachments/assets/a6efbdc8-a133-4c05-84e2-3fe24b55f7f0" />
+
+
+The home page provides an overview of the Employee Management System and contains a navigation bar for accessing CRUD operations.
+
+---
+
+### Add Employee Page
+
+<img width="1912" height="857" alt="image" src="https://github.com/user-attachments/assets/2133d16f-42d0-40d5-91d9-edecca170432" />
+
+
+This page allows users to add a new employee by entering employee details such as name, department, and salary.
+
+---
+
+### View Employee Page
+
+<img width="1907" height="872" alt="image" src="https://github.com/user-attachments/assets/eae69613-3c09-4757-9970-4e18c3762f14" />
+
+
+This page displays all employee records stored in the MySQL database in a tabular format.
+
+---
+
+### Update Employee Page
+
+<img width="1907" height="862" alt="image" src="https://github.com/user-attachments/assets/169b3047-b898-4109-8d1d-8accd554b8a8" />
+
+
+This page allows users to update employee information by providing the Employee ID and new salary.
+
+---
+
+### Delete Employee Page
+
+<img width="1912" height="868" alt="image" src="https://github.com/user-attachments/assets/bcbdac83-828a-44a8-a217-479adbe51dff" />
+
+
+This page allows users to remove employee records from the database using the Employee ID.
+
+---
+
+### Database Table (Optional)
+
+<img width="1467" height="777" alt="image" src="https://github.com/user-attachments/assets/bb5de10a-44c8-4574-91ca-b4728d797e4e" />
+
+
+
+
+This screenshot shows the employee records stored in the MySQL database.
+
 
 ## Project Structure
 
