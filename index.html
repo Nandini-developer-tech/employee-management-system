@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Employee Management System</title>
+
+    <style>
+
+        body{
+            margin:0;
+            padding-top:70px;
+            font-family:Arial;
+            background:teal;
+        }
+
+        /* Navbar */
+
+        .navbar{
+            background:pink;
+            padding:15px;
+
+            position:fixed;
+            top:0;
+            width:100%;
+
+            display:flex;
+            justify-content:space-evenly;
+
+            box-shadow:0px 0px 10px black;
+        }
+
+        .navbar a{
+            color:black;
+            text-decoration:none;
+            font-size:18px;
+            font-weight:bold;
+        }
+
+        .navbar a:hover{
+            color:blue;
+        }
+
+        /* Card Container */
+
+        .container{
+            display:flex;
+            justify-content:center;
+            margin-top:80px;
+        }
+
+        /* Card */
+
+        .card{
+            background:white;
+            width:60%;
+
+            padding:40px;
+
+            border-radius:15px;
+
+            box-shadow:0px 0px 15px gray;
+
+            text-align:center;
+        }
+
+        .card h1{
+            color:#1E3A8A;
+            margin-bottom:20px;
+        }
+
+        .card p{
+            font-size:18px;
+            line-height:1.8;
+            color:#333;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <!-- Navbar -->
+
+    <div class="navbar">
+
+        <a href="/">Home</a>
+        <a href="/add">Add Employee</a>
+        <a href="/view">View Employee</a>
+        <a href="/update">Update Employee</a>
+        <a href="/delete">Delete Employee</a>
+
+    </div>
+
+    <!-- Card -->
+
+    <div class="container">
+
+        <div class="card">
+
+            <h1>Employee Management System</h1>
+
+            <p>
+                Welcome to the Employee Management System project.
+                This application is developed using Flask and MySQL.
+            </p>
+
+            <p>
+                The system performs CRUD operations such as:
+                Adding, Viewing, Updating, and Deleting employee records.
+            </p>
+
+            <p>
+                This project demonstrates frontend and backend integration
+                using HTML, CSS, Python Flask, and MySQL database.
+            </p>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

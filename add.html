@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Employee</title>
+    <style>
+
+        
+        body{
+            margin:0;
+            padding-top:70px;
+            font-family:Arial;
+            background-color:orange;
+        }
+
+        .navbar{
+            background:black;
+            padding:15px;
+            position:fixed;
+            top:0;
+            width:100%;
+        }
+
+        .navbar a{
+            color:white;
+            text-decoration:none;
+            margin-right:20px;
+            font-size:18px;
+        }
+
+        .navbar a:hover{
+            color:yellow;
+        }
+
+        h1{
+            text-align:center;
+        }
+
+        form{
+            text-align:center;
+            width:300px;
+            margin:auto;
+            margin-top:100px;
+            padding:30px;
+            border:2px solid gray;
+            border-radius:10px;
+            background:green;
+            box-shadow:0px 0px 10px gray;
+  
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Add Employee</h1>
+
+    <form method="POST">
+
+        Name:
+        <input type="text" name="name">
+
+        <br><br>
+
+        Department:
+        <input type="text" name="department">
+
+        <br><br>
+
+        Salary:
+        <input type="number" name="salary">
+
+        <br><br>
+
+        <button type="submit">Add Employee</button>
+
+    </form>
+
+</body>
+</html>
