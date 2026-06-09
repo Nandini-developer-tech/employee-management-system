@@ -2,13 +2,13 @@
 
 ## Project Overview   
 
-The Employee Management System is a web application developed using Flask and MySQL. It allows users to manage employee records by performing CRUD (Create, Read, Update, Delete) operations through a simple and user-friendly interface.   
+The Employee Management System is a web application developed using Flask and MySQL. It allows users to manage employee records by performing CRUD (Create, Read, Update, Delete) operations through a simple and user-friendly interface.        
 
 ## Features        
 
 * Add Employee
 * View Employee Records     
-* Update Employee Information  
+* Update Employee Information     
 * Delete Employee Records 
 * Navigation Bar for Easy Access 
 * MySQL Database Integration 
@@ -53,7 +53,7 @@ This page allows users to add a new employee by entering employee details such a
 
 ---
 
-### View Employee Page
+### View Employee Page     
 
 <img width="1907" height="872" alt="image" src="https://github.com/user-attachments/assets/eae69613-3c09-4757-9970-4e18c3762f14" />
 
