@@ -68,7 +68,7 @@ This page displays all employee records stored in the MySQL database in a tabula
 
 
 This page allows users to update employee information by providing the Employee ID and new salary.
-
+    
 ---
 
 ### Delete Employee Page
