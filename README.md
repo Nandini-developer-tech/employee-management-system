@@ -49,7 +49,7 @@ The home page provides an overview of the Employee Management System and contain
 <img width="1912" height="857" alt="image" src="https://github.com/user-attachments/assets/2133d16f-42d0-40d5-91d9-edecca170432" />
 
 
-This page allows users to add a new employee by entering employee details such as name, department, and salary.     
+This page allows users to add a new employee by entering employee details such as name, department, and salary.          
 
 ---
 
