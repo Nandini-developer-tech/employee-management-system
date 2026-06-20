@@ -53,7 +53,7 @@ This page allows users to add a new employee by entering employee details such a
 
 ---
 
-### View Employee Page     
+### View Employee Page           
 
 <img width="1907" height="872" alt="image" src="https://github.com/user-attachments/assets/eae69613-3c09-4757-9970-4e18c3762f14" />
 
