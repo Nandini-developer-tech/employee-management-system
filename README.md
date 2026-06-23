@@ -33,7 +33,7 @@ The Employee Management System is a web application developed using Flask and My
 * CSS
 
 ---
-## Project Screenshots
+## Project Screenshots   
    
 ### Home Page
 
