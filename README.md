@@ -10,7 +10,7 @@ The Employee Management System is a web application developed using Flask and My
 * View Employee Records             
 * Update Employee Information                     
 * Delete Employee Records   
-* Navigation Bar for Easy Access       
+* Navigation Bar for Easy Access        
 * MySQL Database Integration      
 * Responsive and Simple User Interface                   
 
