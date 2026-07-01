@@ -71,7 +71,7 @@ This page allows users to update employee information by providing the Employee 
     
 ---
 
-### Delete Employee Page
+### Delete Employee Page    
 
 <img width="1912" height="868" alt="image" src="https://github.com/user-attachments/assets/bcbdac83-828a-44a8-a217-479adbe51dff" />
 
