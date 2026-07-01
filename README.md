@@ -23,7 +23,7 @@ The Employee Management System is a web application developed using Flask and My
 * Python
 * Flask
 
-### Database     
+### Database           
 
 * MySQL
 
